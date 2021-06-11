@@ -1,5 +1,6 @@
 package com.nagarro.springboot.dto;
 
+//registration
 public class UserRegistrationDto {
 	private String firstName;
 	private String lastName;
